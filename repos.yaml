@@ -1,0 +1,5 @@
+version: 1
+repos:
+  example-svc-orders:
+    url: git@github.com:polymux/example-svc-orders
+    ref_file: refs/example-svc-orders.ref
